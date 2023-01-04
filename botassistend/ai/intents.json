@@ -1,0 +1,30 @@
+{
+    "intents" : [
+         {
+            "tag" : "getProfile",
+            "patterns" : ["My Profile", "Check profile", "Profile", "View Profile"],
+            "responses" : ["http://127.0.0.1:8000/profile"]
+         },
+         {
+            "tag": "updateProfile",
+            "patterns" : ["Change profile","Change name", "Change lastname", "Verify account", "Update profile"],
+            "responses" : ["http://127.0.0.1:8000/updateProfile"]
+         },
+         {
+            "tag": "myCar",
+            "patterns" : ["My car", "Shooping car", "Shooping", "Products", "My products", "Things", "Pay", "See products"],
+            "responses" : ["http://127.0.0.1:8000/shoopingCar"]
+         },
+         {
+            "tag": "aboutsus",
+            "patterns" : ["Who are you", "Where are you from", "What you", "Where i am", "What"],
+            "responses" : ["http://127.0.0.1:8000/aboutus"]
+         },
+         {
+            "tag": "items",
+            "patterns" : ["Store", "Items", "Buy", "Promotions"],
+            "responses" : ["http://127.0.0.1:8000/promotions"]
+         }
+    ]
+}
+

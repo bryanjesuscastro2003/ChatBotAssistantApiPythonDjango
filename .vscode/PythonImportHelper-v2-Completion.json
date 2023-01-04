@@ -1,0 +1,668 @@
+[
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "pyttsx3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyttsx3",
+        "description": "pyttsx3",
+        "detail": "pyttsx3",
+        "documentation": {}
+    },
+    {
+        "label": "WordNetLemmatizer",
+        "importPath": "nltk.stem",
+        "description": "nltk.stem",
+        "isExtraImport": true,
+        "detail": "nltk.stem",
+        "documentation": {}
+    },
+    {
+        "label": "WordNetLemmatizer",
+        "importPath": "nltk.stem",
+        "description": "nltk.stem",
+        "isExtraImport": true,
+        "detail": "nltk.stem",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Activation",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "tensorflow.keras.optimizers",
+        "description": "tensorflow.keras.optimizers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "clean_up_sentence",
+        "kind": 2,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "def clean_up_sentence(sentence):\n    sentence_words = nltk.word_tokenize(sentence)\n    sentence_words = [lemmatizer.lemmatize(word) for word in sentence_words]\n    return sentence_words\ndef bag_of_words(sentence):\n    sentence_words = clean_up_sentence(sentence)\n    bag  = [0] * len(words)\n    for w in sentence_words:\n        for i, word in enumerate(words):\n            if word == w:",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "bag_of_words",
+        "kind": 2,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "def bag_of_words(sentence):\n    sentence_words = clean_up_sentence(sentence)\n    bag  = [0] * len(words)\n    for w in sentence_words:\n        for i, word in enumerate(words):\n            if word == w:\n                bag[i] = 1\n    return np.array(bag)\ndef predict_class(sentence):\n    bow = bag_of_words(sentence)",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "predict_class",
+        "kind": 2,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "def predict_class(sentence):\n    bow = bag_of_words(sentence)\n    res = model.predict(np.array([bow]))[0]\n    ERROR_THRESHOLD = 0.25  \n    results = [[i,r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]\n    results.sort(key = lambda x: x[1], reverse = True)\n    return_list = []  \n    for r in results:\n        return_list.append({\"intent\" : classes[r[0]], \"probability\" : str(r[1])})\n    return return_list",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "get_response",
+        "kind": 2,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "def get_response(intents_list, intents_json):\n    tag = intents_list[0][\"intent\"]  \n    list_of_intents = intents_json[\"intents\"] \n    for i in list_of_intents:\n        if i[\"tag\"] == tag:\n            result = random.choice(i[\"responses\"]) \n            break\n    return result",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "lemmatizer",
+        "kind": 5,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "lemmatizer = WordNetLemmatizer()\nintents = json.loads(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/intents.json\").read())\nwords = pickle.load(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/words.pkl\", \"rb\"))\nclasses = pickle.load(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/classes.pkl\", \"rb\"))\nmodel = load_model(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/Chatbot_model.h5\")\ndef clean_up_sentence(sentence):\n    sentence_words = nltk.word_tokenize(sentence)\n    sentence_words = [lemmatizer.lemmatize(word) for word in sentence_words]\n    return sentence_words\ndef bag_of_words(sentence):",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "intents",
+        "kind": 5,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "intents = json.loads(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/intents.json\").read())\nwords = pickle.load(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/words.pkl\", \"rb\"))\nclasses = pickle.load(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/classes.pkl\", \"rb\"))\nmodel = load_model(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/Chatbot_model.h5\")\ndef clean_up_sentence(sentence):\n    sentence_words = nltk.word_tokenize(sentence)\n    sentence_words = [lemmatizer.lemmatize(word) for word in sentence_words]\n    return sentence_words\ndef bag_of_words(sentence):\n    sentence_words = clean_up_sentence(sentence)",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "words = pickle.load(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/words.pkl\", \"rb\"))\nclasses = pickle.load(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/classes.pkl\", \"rb\"))\nmodel = load_model(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/Chatbot_model.h5\")\ndef clean_up_sentence(sentence):\n    sentence_words = nltk.word_tokenize(sentence)\n    sentence_words = [lemmatizer.lemmatize(word) for word in sentence_words]\n    return sentence_words\ndef bag_of_words(sentence):\n    sentence_words = clean_up_sentence(sentence)\n    bag  = [0] * len(words)",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "classes",
+        "kind": 5,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "classes = pickle.load(open(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/classes.pkl\", \"rb\"))\nmodel = load_model(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/Chatbot_model.h5\")\ndef clean_up_sentence(sentence):\n    sentence_words = nltk.word_tokenize(sentence)\n    sentence_words = [lemmatizer.lemmatize(word) for word in sentence_words]\n    return sentence_words\ndef bag_of_words(sentence):\n    sentence_words = clean_up_sentence(sentence)\n    bag  = [0] * len(words)\n    for w in sentence_words:",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "botassistend.ai.bot",
+        "description": "botassistend.ai.bot",
+        "peekOfCode": "model = load_model(\"D:/A21Projects/ChatBotAssistand/botassistend/ai/Chatbot_model.h5\")\ndef clean_up_sentence(sentence):\n    sentence_words = nltk.word_tokenize(sentence)\n    sentence_words = [lemmatizer.lemmatize(word) for word in sentence_words]\n    return sentence_words\ndef bag_of_words(sentence):\n    sentence_words = clean_up_sentence(sentence)\n    bag  = [0] * len(words)\n    for w in sentence_words:\n        for i, word in enumerate(words):",
+        "detail": "botassistend.ai.bot",
+        "documentation": {}
+    },
+    {
+        "label": "lemmatizer",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "lemmatizer = WordNetLemmatizer\nintents = json.loads(open(\"intents.json\").read())\nwords = []\nclasses = []   \ndocuments = []  \nignore_letters = [\"?\",\"!\",\".\",\",\"]  \nfor intent in intents[\"intents\"]:\n    for pattern in intent[\"patterns\"]: \n        word_list = nltk.word_tokenize(pattern)  \n        words.extend(word_list)",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "intents",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "intents = json.loads(open(\"intents.json\").read())\nwords = []\nclasses = []   \ndocuments = []  \nignore_letters = [\"?\",\"!\",\".\",\",\"]  \nfor intent in intents[\"intents\"]:\n    for pattern in intent[\"patterns\"]: \n        word_list = nltk.word_tokenize(pattern)  \n        words.extend(word_list)\n        documents.append((word_list, intent[\"tag\"]))",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "words = []\nclasses = []   \ndocuments = []  \nignore_letters = [\"?\",\"!\",\".\",\",\"]  \nfor intent in intents[\"intents\"]:\n    for pattern in intent[\"patterns\"]: \n        word_list = nltk.word_tokenize(pattern)  \n        words.extend(word_list)\n        documents.append((word_list, intent[\"tag\"]))\n        if intent[\"tag\"] not in classes:",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "classes",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "classes = []   \ndocuments = []  \nignore_letters = [\"?\",\"!\",\".\",\",\"]  \nfor intent in intents[\"intents\"]:\n    for pattern in intent[\"patterns\"]: \n        word_list = nltk.word_tokenize(pattern)  \n        words.extend(word_list)\n        documents.append((word_list, intent[\"tag\"]))\n        if intent[\"tag\"] not in classes:\n            classes.append(intent[\"tag\"])",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "documents",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "documents = []  \nignore_letters = [\"?\",\"!\",\".\",\",\"]  \nfor intent in intents[\"intents\"]:\n    for pattern in intent[\"patterns\"]: \n        word_list = nltk.word_tokenize(pattern)  \n        words.extend(word_list)\n        documents.append((word_list, intent[\"tag\"]))\n        if intent[\"tag\"] not in classes:\n            classes.append(intent[\"tag\"])\nwords = [lemmatizer.lemmatize(lemmatizer , word = word) for word in words if word not in ignore_letters]",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "ignore_letters",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "ignore_letters = [\"?\",\"!\",\".\",\",\"]  \nfor intent in intents[\"intents\"]:\n    for pattern in intent[\"patterns\"]: \n        word_list = nltk.word_tokenize(pattern)  \n        words.extend(word_list)\n        documents.append((word_list, intent[\"tag\"]))\n        if intent[\"tag\"] not in classes:\n            classes.append(intent[\"tag\"])\nwords = [lemmatizer.lemmatize(lemmatizer , word = word) for word in words if word not in ignore_letters]\nwords = sorted(set(words))",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "words = [lemmatizer.lemmatize(lemmatizer , word = word) for word in words if word not in ignore_letters]\nwords = sorted(set(words))\nclasses = sorted(set(classes))\npickle.dump(words, open(\"words.pkl\", \"wb\"))\npickle.dump(classes, open(\"classes.pkl\", \"wb\"))\ntraining = []\noutput_empty = [0] * len(classes)  \nfor document in documents:\n    bag = []  \n    word_patterns = document[0]",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "words = sorted(set(words))\nclasses = sorted(set(classes))\npickle.dump(words, open(\"words.pkl\", \"wb\"))\npickle.dump(classes, open(\"classes.pkl\", \"wb\"))\ntraining = []\noutput_empty = [0] * len(classes)  \nfor document in documents:\n    bag = []  \n    word_patterns = document[0]\n    word_patterns = [lemmatizer.lemmatize(lemmatizer, word.lower()) for word in word_patterns]",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "classes",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "classes = sorted(set(classes))\npickle.dump(words, open(\"words.pkl\", \"wb\"))\npickle.dump(classes, open(\"classes.pkl\", \"wb\"))\ntraining = []\noutput_empty = [0] * len(classes)  \nfor document in documents:\n    bag = []  \n    word_patterns = document[0]\n    word_patterns = [lemmatizer.lemmatize(lemmatizer, word.lower()) for word in word_patterns]\n    for word in words:",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "training",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "training = []\noutput_empty = [0] * len(classes)  \nfor document in documents:\n    bag = []  \n    word_patterns = document[0]\n    word_patterns = [lemmatizer.lemmatize(lemmatizer, word.lower()) for word in word_patterns]\n    for word in words:\n           bag.append(1) if word in word_patterns else bag.append(0)\n    output_row = list(output_empty)\n    output_row[classes.index(document[1])] = 1",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "output_empty",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "output_empty = [0] * len(classes)  \nfor document in documents:\n    bag = []  \n    word_patterns = document[0]\n    word_patterns = [lemmatizer.lemmatize(lemmatizer, word.lower()) for word in word_patterns]\n    for word in words:\n           bag.append(1) if word in word_patterns else bag.append(0)\n    output_row = list(output_empty)\n    output_row[classes.index(document[1])] = 1\n    training.append([bag, output_row])",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "training",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "training = np.array(training)\ntrain_x = list(training[:, 0])\ntrain_y = list(training[:, 1])\nmodel = Sequential()\nmodel.add(Dense(128, input_shape = (len(train_x[0]),), activation = \"relu\"))\nmodel.add(Dropout(0.5))\nmodel.add(Dense(64, activation = \"relu\"))\nmodel.add(Dropout(0.5))\nmodel.add(Dense(len(train_y[0]), activation = \"softmax\"))\nsgd = SGD(lr = 0.01, momentum = 0.9, nesterov = True)",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "train_x",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "train_x = list(training[:, 0])\ntrain_y = list(training[:, 1])\nmodel = Sequential()\nmodel.add(Dense(128, input_shape = (len(train_x[0]),), activation = \"relu\"))\nmodel.add(Dropout(0.5))\nmodel.add(Dense(64, activation = \"relu\"))\nmodel.add(Dropout(0.5))\nmodel.add(Dense(len(train_y[0]), activation = \"softmax\"))\nsgd = SGD(lr = 0.01, momentum = 0.9, nesterov = True)\nmodel.compile(loss = \"categorical_crossentropy\", optimizer=sgd, metrics = [\"accuracy\"])",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "train_y",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "train_y = list(training[:, 1])\nmodel = Sequential()\nmodel.add(Dense(128, input_shape = (len(train_x[0]),), activation = \"relu\"))\nmodel.add(Dropout(0.5))\nmodel.add(Dense(64, activation = \"relu\"))\nmodel.add(Dropout(0.5))\nmodel.add(Dense(len(train_y[0]), activation = \"softmax\"))\nsgd = SGD(lr = 0.01, momentum = 0.9, nesterov = True)\nmodel.compile(loss = \"categorical_crossentropy\", optimizer=sgd, metrics = [\"accuracy\"])\nhist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "model = Sequential()\nmodel.add(Dense(128, input_shape = (len(train_x[0]),), activation = \"relu\"))\nmodel.add(Dropout(0.5))\nmodel.add(Dense(64, activation = \"relu\"))\nmodel.add(Dropout(0.5))\nmodel.add(Dense(len(train_y[0]), activation = \"softmax\"))\nsgd = SGD(lr = 0.01, momentum = 0.9, nesterov = True)\nmodel.compile(loss = \"categorical_crossentropy\", optimizer=sgd, metrics = [\"accuracy\"])\nhist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)\nmodel.save(\"Chatbot_model.h5\", hist)",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "sgd",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "sgd = SGD(lr = 0.01, momentum = 0.9, nesterov = True)\nmodel.compile(loss = \"categorical_crossentropy\", optimizer=sgd, metrics = [\"accuracy\"])\nhist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)\nmodel.save(\"Chatbot_model.h5\", hist)\nprint(\"Done\")",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "model.compile(loss",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "model.compile(loss = \"categorical_crossentropy\", optimizer=sgd, metrics = [\"accuracy\"])\nhist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)\nmodel.save(\"Chatbot_model.h5\", hist)\nprint(\"Done\")",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "hist",
+        "kind": 5,
+        "importPath": "botassistend.ai.training",
+        "description": "botassistend.ai.training",
+        "peekOfCode": "hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)\nmodel.save(\"Chatbot_model.h5\", hist)\nprint(\"Done\")",
+        "detail": "botassistend.ai.training",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "botassistend.asgi",
+        "description": "botassistend.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "botassistend.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-(n%r4((#2xn6(7=8=pru=m_t2zwvaeh2oa6b)7!r9vc+=kg@_5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-(n%r4((#2xn6(7=8=pru=m_t2zwvaeh2oa6b)7!r9vc+=kg@_5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n]\nMIDDLEWARE = [",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'botassistend.urls'",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "ROOT_URLCONF = 'botassistend.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'botassistend.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "botassistend.settings",
+        "description": "botassistend.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "botassistend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "botassistend.urls",
+        "description": "botassistend.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api-auth/', include('rest_framework.urls')),\n    path(\"\", welcome),\n    path(\"bot/\", botAssistant)\n]",
+        "detail": "botassistend.urls",
+        "documentation": {}
+    },
+    {
+        "label": "welcome",
+        "kind": 2,
+        "importPath": "botassistend.views",
+        "description": "botassistend.views",
+        "peekOfCode": "def welcome(request):\n    return HttpResponse(\"App developed by Bryan Jesus\")\n\"\"\"\nbody\n{\n      question : \"user question\"\n}\n\"\"\"\n@api_view([\"POST\"])\ndef botAssistant(request):",
+        "detail": "botassistend.views",
+        "documentation": {}
+    },
+    {
+        "label": "botAssistant",
+        "kind": 2,
+        "importPath": "botassistend.views",
+        "description": "botassistend.views",
+        "peekOfCode": "def botAssistant(request):\n    try:\n        body_unicode = request.body.decode('utf-8')\n        body = json.loads(body_unicode)\n        question = body[\"question\"]\n        pred = predict_class(question.lower()) \n        response = get_response(pred, intents)\n        return Response({\"ok\": True, \"message\": \"Bot running ok\", \"data\": response})\n    except Exception as e:\n        return Response({\"ok\": False, \"message\": \"Server error try again later\", \"data\": []})",
+        "detail": "botassistend.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "botassistend.wsgi",
+        "description": "botassistend.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "botassistend.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'botassistend.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
